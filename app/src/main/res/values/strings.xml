@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasQuiz1</string>
+    <string name="Total">TVtotal</string>
+    <string name="Bonus">TVbonus</string>
+    <string name="Kembalian">TVkembalian</string>
+    <string name="Keterangan">TVketerangan</string>
+</resources>
